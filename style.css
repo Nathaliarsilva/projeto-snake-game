@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex; /*Define o posiciomamento*/
+    flex-direction: column; /*Deixa os elementos em coluna (um abaixo do outro)*/
+    justify-content: center; /*Alinha horizontalmente*/
+    align-items: center; /*Alinha verticalmente*/
+    background-color:white;
+    color: rgb(52, 165, 52);
+}
